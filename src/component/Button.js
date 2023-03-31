@@ -26,7 +26,6 @@ class Button extends React.Component{
                 <input type="text" value={this.state.text} onChange={this.change} />
                 <button onClick={this.click}>Click </button> */}
             <h1>HTML</h1>
-
             </div>
         )
     }
